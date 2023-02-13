@@ -1,8 +1,12 @@
 					
 
 
--------------------------------------------------------------Accident Alert Device--------------------------------------------------------------
--------------------------------------------------------------------TEAM SIM4--------------------------------------------------------------------
+---------------------------------------------Accident Alert Device-----------------------------------------
+
+
+---------------------------------------------------TEAM SIM4---------------------------------------------------
+
+
 Team Details :-
 
 Name                                       Student id 
@@ -52,13 +56,21 @@ We plan on reducing the weight of the product and making it more versatile, comp
 Components Used:-
 
 ADXL335 Accelerometer,
+
 Arduino nano with USB Cable,
+
 GPS NEO,
+
 SIM800L,
+
 Buzzer,
+
 Led, Resistors,
+
 Jumper wires, header pins,
+
 Kill Switch & 
+
 3.7 V Cell.
 
 
