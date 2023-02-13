@@ -7,13 +7,13 @@ Team Details :-
 
 Name                                       Student id 
 
-Omar Farooq                                202006216
+Omar Farooq Khan Suri                               202006216,
 
-Ifra Khan                                  202006240
+Ifra Khan                                  202006240,
 
-Raza Ahmed                                 202005967
+Raza Ahmed                                 202005967,
 
-Md Suhail                                  202006109
+Mohd Suhail                                  202006109,
 
 
 
@@ -49,17 +49,17 @@ Future developments :-
 
 We plan on reducing the weight of the product and making it more versatile, compact, portable and cheap so that even lower middle class people can afford it.
 
-Components Used:_
+Components Used:-
 
-ADXL335 Accelerometer
-Arduino nano with USB Cable
-GPS NEO
-SIM800L
-Buzzer
-Led, Resistors
-Jumper wires, header pins
-Kill Switch
-3.7 V Cell
+ADXL335 Accelerometer,
+Arduino nano with USB Cable,
+GPS NEO,
+SIM800L,
+Buzzer,
+Led, Resistors,
+Jumper wires, header pins,
+Kill Switch & 
+3.7 V Cell.
 
 
 
